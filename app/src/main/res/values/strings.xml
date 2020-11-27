@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="tip_title">权限说明（通知使用权）</string>
+    <string name="tip_content">开启通知使用权限，是使用本应用所有功能的必要条件哦，
+        请务必开启，除了进行逻辑处理外，不会对您的数据有其他处理。（
+        出现不播报通知的现象，请重新开启通知使用权；出现手机媒体声失效的现象，请重启手机）</string>
+    <string name="tts_title">语音播报</string>
+    <string name="tts_content">开启后，系统自动播放出通知消息的语音（锁屏状态下也生效）</string>
+    <string name="com_title">指令</string>
+    <string name="com_content">开启后，app根据通知消息的内容做出相应的指令</string>
+</resources>

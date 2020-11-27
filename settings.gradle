@@ -1,0 +1,2 @@
+include ':app_menu'
+rootProject.name = "Notification"
